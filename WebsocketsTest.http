@@ -1,0 +1,4 @@
+WEBSOCKET ws://localhost:9090/chat
+Content-Type: text/plain
+
+Hello!

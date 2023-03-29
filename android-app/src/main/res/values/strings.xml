@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sizzle Messaging</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Sizzle</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_token_fmt">FCM registration Token: %s</string>
+    <string name="FullNameLabel">Full Name</string>
+    <string name="EmailLabel">Email</string>
+    <string name="UsernameLabel">Username</string>
+    <string name="PasswordLabel">Password</string>
+    <string name="DietitianEmailLabel">Dietitian Email</string>
+    <string name="AgeLabel">Age</string>
+    <string name="WeightLabel">Weight</string>
+    <string name="FeetLabel">Feet</string>
+</resources>

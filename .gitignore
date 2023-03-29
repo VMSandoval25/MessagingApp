@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+build/
+gradle/
+kotlin-js-store/
+node_modules/
+gradlew
+gradlew.bat
+package-lock.json
+package.json
+Procfile
+.DS_Store
+local.properties
+*.hprof
+db_data/
+java_pid71867.hprof.70r873.b.ij/

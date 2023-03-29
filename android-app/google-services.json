@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010079669425",
+    "project_id": "sizzle-messaging",
+    "storage_bucket": "sizzle-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010079669425:android:fc79084b73df078b575690",
+        "android_client_info": {
+          "package_name": "app.getsizzle.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010079669425-4f8026pi1a9qt39bbeic381pk89nmvju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3Gwq-akL6a9_KlB7ksbemRrCkg6-KBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010079669425-4f8026pi1a9qt39bbeic381pk89nmvju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
